@@ -12,6 +12,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Raghukn21/750DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Raghukn21/100DaysLeetCodeChallenge/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -251,5 +252,6 @@
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Raghukn21/100DaysLeetCodeChallenge/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
