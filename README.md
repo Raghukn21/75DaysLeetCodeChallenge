@@ -33,6 +33,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [0977-squares-of-a-sorted-array](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 | [0242-valid-anagram](https://github.com/Raghukn21/750DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Raghukn21/750DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0435-non-overlapping-intervals) |
+| [0977-squares-of-a-sorted-array](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -114,6 +116,7 @@
 | [0283-move-zeroes](https://github.com/Raghukn21/750DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
