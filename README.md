@@ -15,6 +15,7 @@
 | [0049-group-anagrams](https://github.com/Raghukn21/750DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Raghukn21/100DaysLeetCodeChallenge/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Raghukn21/100DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
@@ -56,6 +57,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Raghukn21/750DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Raghukn21/750DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Raghukn21/750DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
@@ -109,6 +111,7 @@
 | [0015-3sum](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Raghukn21/750DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Raghukn21/750DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
