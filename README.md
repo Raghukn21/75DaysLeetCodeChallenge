@@ -46,6 +46,7 @@
 | [0875-koko-eating-bananas](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [0997-find-the-town-judge](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 ## Hash Table
 |  |
@@ -69,6 +70,7 @@
 | [0567-permutation-in-string](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
+| [0997-find-the-town-judge](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 ## Sorting
 |  |
 | ------- |
@@ -368,4 +370,8 @@
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
