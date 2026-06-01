@@ -181,6 +181,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0435-non-overlapping-intervals) |
 ## Sliding Window
@@ -210,6 +211,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Design
 |  |
@@ -394,4 +396,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0207-course-schedule) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
