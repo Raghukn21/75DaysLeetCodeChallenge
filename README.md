@@ -102,6 +102,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Raghukn21/750DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
@@ -194,6 +195,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0010-regular-expression-matching) |
 | [0070-climbing-stairs](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0198-house-robber) |
@@ -277,6 +279,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
