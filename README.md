@@ -14,6 +14,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Raghukn21/100DaysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Raghukn21/750DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Raghukn21/100DaysLeetCodeChallenge/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0056-merge-intervals) |
@@ -66,6 +67,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Raghukn21/100DaysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Raghukn21/750DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Raghukn21/100DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0133-clone-graph) |
