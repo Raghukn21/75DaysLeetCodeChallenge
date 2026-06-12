@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-substring-with-given-hash-value">2156. Find Substring With Given Hash Value</a></h2><h3>Hard</h3><hr><p>The hash of a <strong>0-indexed</strong> string <code>s</code> of length <code>k</code>, given integers <code>p</code> and <code>m</code>, is computed using the following function:</p>
+<h2><a href="https://leetcode.com/problems/find-substring-with-given-hash-value">2275. Find Substring With Given Hash Value</a></h2><h3>Hard</h3><hr><p>The hash of a <strong>0-indexed</strong> string <code>s</code> of length <code>k</code>, given integers <code>p</code> and <code>m</code>, is computed using the following function:</p>
 
 <ul>
 	<li><code>hash(s, p, m) = (val(s[0]) * p<sup>0</sup> + val(s[1]) * p<sup>1</sup> + ... + val(s[k-1]) * p<sup>k-1</sup>) mod m</code>.</li>
