@@ -96,6 +96,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Raghukn21/750DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
+| [0899-orderly-queue](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0899-orderly-queue) |
 | [0977-squares-of-a-sorted-array](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -115,6 +116,7 @@
 | [0394-decode-string](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
+| [0899-orderly-queue](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0899-orderly-queue) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -236,6 +238,7 @@
 | [0070-climbing-stairs](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0509-fibonacci-number](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+| [0899-orderly-queue](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0899-orderly-queue) |
 ## Design
 |  |
 | ------- |
