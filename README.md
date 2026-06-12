@@ -117,6 +117,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0899-orderly-queue](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0899-orderly-queue) |
+| [2156-find-substring-with-given-hash-value](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/2156-find-substring-with-given-hash-value) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -219,6 +220,7 @@
 | [0567-permutation-in-string](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
+| [2156-find-substring-with-given-hash-value](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/2156-find-substring-with-given-hash-value) |
 ## Stack
 |  |
 | ------- |
@@ -385,6 +387,7 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
+| [2156-find-substring-with-given-hash-value](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/2156-find-substring-with-given-hash-value) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -441,4 +444,8 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+## Rolling Hash
+|  |
+| ------- |
+| [2156-find-substring-with-given-hash-value](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/2156-find-substring-with-given-hash-value) |
 <!---LeetCode Topics End-->
