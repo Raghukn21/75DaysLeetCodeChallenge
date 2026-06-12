@@ -57,6 +57,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
+| [1632-rank-transform-of-a-matrix](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/1632-rank-transform-of-a-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -98,6 +99,7 @@
 | [0621-task-scheduler](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0899-orderly-queue](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0899-orderly-queue) |
 | [0977-squares-of-a-sorted-array](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [1632-rank-transform-of-a-matrix](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/1632-rank-transform-of-a-matrix) |
 ## String
 |  |
 | ------- |
@@ -270,6 +272,7 @@
 | [0212-word-search-ii](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
+| [1632-rank-transform-of-a-matrix](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/1632-rank-transform-of-a-matrix) |
 ## Linked List
 |  |
 | ------- |
@@ -421,6 +424,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Raghukn21/100DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
+| [1632-rank-transform-of-a-matrix](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/1632-rank-transform-of-a-matrix) |
 ## Interactive
 |  |
 | ------- |
@@ -435,10 +439,12 @@
 | [0133-clone-graph](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0207-course-schedule) |
 | [0997-find-the-town-judge](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
+| [1632-rank-transform-of-a-matrix](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/1632-rank-transform-of-a-matrix) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0207-course-schedule) |
+| [1632-rank-transform-of-a-matrix](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/1632-rank-transform-of-a-matrix) |
 ## Memoization
 |  |
 | ------- |
