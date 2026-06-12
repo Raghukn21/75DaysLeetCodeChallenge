@@ -461,4 +461,5 @@
 |  |
 | ------- |
 | [0185-department-top-three-salaries](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0185-department-top-three-salaries) |
+| [0262-trips-and-users](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0262-trips-and-users) |
 <!---LeetCode Topics End-->
