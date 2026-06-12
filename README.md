@@ -69,6 +69,7 @@
 | [0036-valid-sudoku](https://github.com/Raghukn21/100DaysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Raghukn21/750DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Raghukn21/100DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
@@ -115,6 +116,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/Raghukn21/750DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0065-valid-number) |
+| [0076-minimum-window-substring](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Raghukn21/750DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -226,6 +228,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
