@@ -114,6 +114,7 @@
 | [0020-valid-parentheses](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/Raghukn21/750DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0065-valid-number](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0065-valid-number) |
 | [0125-valid-palindrome](https://github.com/Raghukn21/750DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
