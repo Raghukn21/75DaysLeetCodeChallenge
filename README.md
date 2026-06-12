@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Raghukn21/750DaysLeetCodeChallenge/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
@@ -123,6 +124,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
@@ -179,6 +181,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
