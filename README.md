@@ -457,4 +457,8 @@
 |  |
 | ------- |
 | [2156-find-substring-with-given-hash-value](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/2156-find-substring-with-given-hash-value) |
+## Database
+|  |
+| ------- |
+| [0185-department-top-three-salaries](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
