@@ -200,6 +200,7 @@
 | [0010-regular-expression-matching](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0010-regular-expression-matching) |
 | [0070-climbing-stairs](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
@@ -298,6 +299,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
@@ -318,6 +320,7 @@
 | [0100-same-tree](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0199-binary-tree-right-side-view) |
@@ -361,6 +364,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
