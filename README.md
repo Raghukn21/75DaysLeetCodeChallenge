@@ -21,6 +21,7 @@
 | [0051-n-queens](https://github.com/Raghukn21/100DaysLeetCodeChallenge/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
@@ -306,6 +307,7 @@
 | [0002-add-two-numbers](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
