@@ -139,6 +139,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
+| [0214-shortest-palindrome](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/Raghukn21/750DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
@@ -438,10 +439,12 @@
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
 | [2156-find-substring-with-given-hash-value](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/2156-find-substring-with-given-hash-value) |
 ## Binary Search Tree
@@ -513,6 +516,7 @@
 ## Rolling Hash
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0214-shortest-palindrome) |
 | [2156-find-substring-with-given-hash-value](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/2156-find-substring-with-given-hash-value) |
 ## Database
 |  |
