@@ -129,6 +129,7 @@
 | [0076-minimum-window-substring](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Raghukn21/750DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0126-word-ladder-ii) |
+| [0132-palindrome-partitioning-ii](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0132-palindrome-partitioning-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
@@ -234,6 +235,7 @@
 | [0070-climbing-stairs](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0132-palindrome-partitioning-ii](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0132-palindrome-partitioning-ii) |
 | [0198-house-robber](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
