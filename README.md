@@ -51,6 +51,7 @@
 | [0268-missing-number](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Raghukn21/750DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Raghukn21/750DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
@@ -258,6 +259,7 @@
 | [0198-house-robber](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0435-non-overlapping-intervals) |
