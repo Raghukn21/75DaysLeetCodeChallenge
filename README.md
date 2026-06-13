@@ -44,6 +44,7 @@
 | [0213-house-robber-ii](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Raghukn21/750DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0220-contains-duplicate-iii) |
 | [0238-product-of-array-except-self](https://github.com/Raghukn21/750DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0239-sliding-window-maximum) |
@@ -112,6 +113,7 @@
 | [0169-majority-element](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Raghukn21/750DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/Raghukn21/750DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
@@ -158,11 +160,13 @@
 | [0169-majority-element](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0218-the-skyline-problem) |
 | [0347-top-k-frequent-elements](https://github.com/Raghukn21/750DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Raghukn21/750DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
@@ -543,5 +547,18 @@
 ## Ordered Set
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0220-contains-duplicate-iii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0218-the-skyline-problem) |
+## Segment Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0218-the-skyline-problem) |
+## Sweep Line
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
