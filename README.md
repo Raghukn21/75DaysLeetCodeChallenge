@@ -123,6 +123,7 @@
 | [0014-longest-common-prefix](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0044-wildcard-matching](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Raghukn21/750DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0065-valid-number) |
 | [0076-minimum-window-substring](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0076-minimum-window-substring) |
@@ -220,6 +221,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0044-wildcard-matching) |
 | [0435-non-overlapping-intervals](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 ## Dynamic Programming
@@ -228,6 +230,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -328,6 +331,7 @@
 | [0010-regular-expression-matching](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0044-wildcard-matching) |
 | [0143-reorder-list](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
