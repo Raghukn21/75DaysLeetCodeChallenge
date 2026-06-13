@@ -302,6 +302,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
