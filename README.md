@@ -53,6 +53,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
+| [0327-count-of-range-sum](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/Raghukn21/750DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0435-non-overlapping-intervals) |
@@ -162,6 +163,7 @@
 | [0191-number-of-1-bits](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0218-the-skyline-problem) |
+| [0327-count-of-range-sum](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/Raghukn21/750DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -234,6 +236,7 @@
 | [0268-missing-number](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
+| [0327-count-of-range-sum](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0327-count-of-range-sum) |
 | [0704-binary-search](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 ## Greedy
@@ -551,16 +554,23 @@
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0220-contains-duplicate-iii) |
+| [0327-count-of-range-sum](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0327-count-of-range-sum) |
 ## Binary Indexed Tree
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0218-the-skyline-problem) |
+| [0327-count-of-range-sum](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0327-count-of-range-sum) |
 ## Segment Tree
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0218-the-skyline-problem) |
+| [0327-count-of-range-sum](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0327-count-of-range-sum) |
 ## Sweep Line
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0218-the-skyline-problem) |
+## Merge Sort
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0327-count-of-range-sum) |
 <!---LeetCode Topics End-->
