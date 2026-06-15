@@ -141,6 +141,7 @@
 | [0044-wildcard-matching](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Raghukn21/750DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Raghukn21/750DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0126-word-ladder-ii) |
@@ -309,6 +310,7 @@
 | [0009-palindrome-number](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -491,6 +493,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0190-reverse-bits) |
@@ -581,4 +584,8 @@
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0327-count-of-range-sum) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
