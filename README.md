@@ -73,6 +73,7 @@
 | [0997-find-the-town-judge](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 | [1632-rank-transform-of-a-matrix](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/1632-rank-transform-of-a-matrix) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 ## Hash Table
 |  |
 | ------- |
@@ -128,6 +129,7 @@
 | [0899-orderly-queue](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0899-orderly-queue) |
 | [0977-squares-of-a-sorted-array](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1632-rank-transform-of-a-matrix](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/1632-rank-transform-of-a-matrix) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 ## String
 |  |
 | ------- |
@@ -319,6 +321,7 @@
 | [0371-sum-of-two-integers](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0899-orderly-queue](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0899-orderly-queue) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 ## Design
 |  |
 | ------- |
@@ -562,6 +565,7 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0149-max-points-on-a-line) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 ## Ordered Set
 |  |
 | ------- |
@@ -590,4 +594,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
+## Number Theory
+|  |
+| ------- |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/Raghukn21/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 <!---LeetCode Topics End-->
